@@ -1,7 +1,7 @@
 # 11° COMPETIÇÃO DE MACHINE LEARNING FLAI
 
 ## Resultado da minha submissão
-Esta é minha primeira submissão em uma compatição de ML da Flai. E com muita felicidade e esforço, fiquei em 4° lugar no Ranking geral. Em que meu modelo obteve um F1-Score de 0.79602 na métrica parcial (testando em apenas um terço do conjunto de teste), melhorando a métrica para 0.84109 na métrica total (validando em todo conjunto teste).
+Esta é minha primeira submissão em uma compatição de ML da Flai. E com muita felicidade e esforço, fiquei em 4° lugar no Ranking geral. Em que meu modelo obteve um **F1-Score de 0.79602** na métrica parcial (testando em apenas um terço do conjunto de teste), melhorando a métrica para **0.84109** na métrica total (validando em todo conjunto teste).
 
 <div align="center">
   
