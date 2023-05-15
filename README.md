@@ -1,5 +1,14 @@
 # 11° COMPETIÇÃO DE MACHINE LEARNING FLAI
 
+## Resultado da minha submissão
+Esta é minha primeira submissão em uma compatição de ML da Flai. E com muita felicidade e esforço, fiquei em 4° lugar no Ranking geral. Em que meu modelo obteve um F1-Score de 0.79602 na métrica parcial (testando em apenas um terço do conjunto de teste), melhorando a métrica para 0.84109 na métrica total (validando em todo conjunto teste).
+
+<div align="center">
+  
+![Ranking geral - métricas](https://github.com/EvelyneBomfim/Challenge-Aprovacao_de_emprestimo/assets/89544488/141919c7-9c9a-400d-8db6-a6a22b13703b)
+  
+</div>
+
 ## Descrição do problema 
 O departamento de crédito de um banco deseja automatizar o processo de tomada de decisão para a aprovação de empréstimos fiduciários. Sua missão é avaliar um conjunto de dados sobre o tomador do empréstimo e decidir se um novo empréstimo poderá ser feito.
 
